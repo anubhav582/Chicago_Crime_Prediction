@@ -1,6 +1,6 @@
 # Chicago Crime Prediction
 
-The Chicago Crime dataset contains a summary of the reported crimes that occurred in the City of Chicago from 2001 to 2017. Dataset has been obtained from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
+The Chicago Crime dataset contains a summary of the reported crimes that occurred in the City of Chicago from 2005 to 2017. Dataset has been obtained from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
 
 Data Source: https://www.kaggle.com/currie32/crimes-in-chicago
 
