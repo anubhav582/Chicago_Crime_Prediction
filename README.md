@@ -13,3 +13,15 @@ Using the dataset I have tried to answer the following questions using Time Seri
 (3) During which months does crime activity go up during the year? (Ipython notebook)
 
 *Facebook prophet* library is used to generate the forecasts. More information about Prophet can be found here: https://facebook.github.io/prophet/
+
+
+Some screenshots from the project 
+
+![What Facebook Prophet does?](https://github.com/anubhav582/Chicago_Crime_Prediction/blob/master/What%20Facebook%20Prophet%20does%3F.png?raw=true "What Facebook Prophet does?")
+
+
+
+![Predicting the future with FB Prophet](https://github.com/anubhav582/Chicago_Crime_Prediction/blob/master/Predicting%20the%20future%20with%20FB%20Prophet.png?raw=true "Predicting the future with FB Prophet")
+
+
+![Interesting insights from FB Prophet](https://github.com/anubhav582/Chicago_Crime_Prediction/blob/master/Interesting%20insights%20from%20FB%20Prophet.png?raw=true "Interesting insights from FB Prophet")
